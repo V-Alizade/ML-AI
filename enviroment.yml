@@ -1,14 +1,12 @@
 name: ML
 channels:
   - conda-forge
-  dependencies:
-  - python=3.8
+dependencies:
+  - python 3.10.*
   - numpy
   - pandas
   - pytorch
   - matplotlib
-  - sklearn
-  - statmodels
-  
-
-
+  - scikit-learn
+  - statsmodels
+  - ipykernel
