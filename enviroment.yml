@@ -1,0 +1,14 @@
+name: ML
+channels:
+  - conda-forge
+  dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - pytorch
+  - matplotlib
+  - sklearn
+  - statmodels
+  
+
+
