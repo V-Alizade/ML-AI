@@ -10,3 +10,4 @@ dependencies:
   - scikit-learn
   - statsmodels
   - ipykernel
+  - python-graphviz
